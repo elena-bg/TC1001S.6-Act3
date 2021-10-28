@@ -11,11 +11,13 @@ http://www.grantjenks.com/docs/freegames/pacman.html (Links to an external site.
 4. Uno de los dos creará un repositorio con el videojuego copiado y se lo compartirá al otro compañero
 5. Uno de los dos hará que:
 
-  a) Los fantasmas sean más listos
+     a) Los fantasmas sean más listos
+  
 6. El otro compañero deberá de:
 
-  a) Cambiar el tablero
-  b) Hacer que los fantasmas vayan mas rápido
+   a) Cambiar el tablero
+   
+   b) Hacer que los fantasmas vayan mas rápido
   
 7. Asegúrense de haber documentado correctamente el código de acuerdo al estándar del Instituto.
 8. Deberás subir a la plataforma:
