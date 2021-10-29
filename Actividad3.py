@@ -2,6 +2,8 @@ from random import choice
 from turtle import *
 from freegames import floor, vector
 
+"En esta actividad habrá pocos commits debido a que solo era modificar la velocidad"
+
 state = {'score': 0}
 path = Turtle(visible=False)
 writer = Turtle(visible=False)
