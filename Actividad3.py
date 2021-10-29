@@ -10,17 +10,10 @@ writer = Turtle(visible=False)
 aim = vector(5, 0)
 pacman = vector(-40, -80)
 ghosts = [
-<<<<<<< Updated upstream
-    [vector(-180, 160), vector(20, 0)],
-    [vector(-180, -160), vector(0, 20)],
-    [vector(100, 160), vector(0, -20)],
-    [vector(100, -160), vector(-20, 0)],
-=======
     [vector(-160, 140), vector(5, 0)],
     [vector(-160, -140), vector(0, 5)],
     [vector(80, 140), vector(0, -5)],
     [vector(80, -140), vector(-5, 0)],
->>>>>>> Stashed changes
 ]
 tiles = [
     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
